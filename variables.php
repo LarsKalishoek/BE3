@@ -1,2 +1,3 @@
-<?php $fname= "lars";
-$lname = "kalishoek";
+<?php 
+
+$fruit = array("appel", "banaan","peer");

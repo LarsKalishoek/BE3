@@ -1,2 +1,2 @@
 <?php include 'variables.php';
-echo "$fname $lname";
+echo "$fruit[0], $fruit[1], $fruit[2]";
